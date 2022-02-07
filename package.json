@@ -1,0 +1,15 @@
+{
+	"name": "tracer",
+	"version": "1.0.0",
+	"description": "Tracer",
+	"main": "builder.js",
+	"scripts": {
+		"dev": "node builder.js"
+	},
+	"author": "HawDevelopment",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"jimp": "^0.16.1"
+	}
+}
