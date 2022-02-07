@@ -27,6 +27,6 @@ Play the game in studio, and a beautiful HD image will be saved to `./image.png`
 <img align="left" src="./pics/Pixels-4.png">
 <img align="left" src="./pics/Marching-1.png">
 <img align="left" src="./pics/Marching-3.png">
-<img align="left" src="./pics/Marching-4.png">
-<img align="left" src="./pics/Marching-5.png">
-<img align="left" src="./pics/Marching-6.png">
+<img align="left" src="./pics/Marching-4.jpeg">
+<img align="left" src="./pics/Marching-5.jpeg">
+<img align="left" src="./pics/Marching-6.jpeg">
